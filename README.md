@@ -1,4 +1,4 @@
-# QA_internship_Task
+# QA_Projects
 
 Buggy To-do web app
 
