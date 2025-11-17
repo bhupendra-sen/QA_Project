@@ -1,4 +1,4 @@
-# QA_Projects
+# QA_Project
 
 Buggy To-do web app
 
